@@ -1,4 +1,4 @@
-# Hi, I'm Holden
+# Hi 👋, I'm Holden
 
 **Lead Software Engineer** · Pittsburgh, PA
 
