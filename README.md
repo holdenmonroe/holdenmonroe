@@ -69,7 +69,10 @@ lately spending a lot of time building with LLMs.
 [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)](https://holdenmonroe.com/#skills)
 [![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)](https://holdenmonroe.com/#skills)
 [![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black)](https://holdenmonroe.com/#skills)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)](https://holdenmonroe.com/#skills)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)](https://holdenmonroe.com/#skills)
+[![Miro](https://img.shields.io/badge/Miro-FFD02F?style=flat&logo=miro&logoColor=050038)](https://holdenmonroe.com/#skills)
+[![Excalidraw](https://img.shields.io/badge/Excalidraw-6965DB?style=flat&logo=excalidraw&logoColor=white)](https://holdenmonroe.com/#skills)
 [![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)](https://holdenmonroe.com/#skills)
 [![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white)](https://holdenmonroe.com/#skills)
 
